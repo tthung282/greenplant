@@ -1,0 +1,6 @@
+
+yment:
+  tasks:
+    - export DEPLOYPATH=/home/ykjfnu8169p3/public_html/
+    - /bin/cp -rf images $DEPLOYPATH
+    - /bin/cp -rf content $DEPLOYPATH
